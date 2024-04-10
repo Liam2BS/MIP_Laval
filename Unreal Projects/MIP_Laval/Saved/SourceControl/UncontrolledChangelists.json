@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/NS_FishGM.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/red_fish.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/fish_text.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/M_RedFish.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Test_Map_Fish.umap",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/Outline.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/NewTexture2DArray.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/Fish_2D_Mat.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/NS_FishGM1.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/NS_FishGM2.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/Fish_2D.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/blinn2.uasset",
 				"C:/Users/rosar/Documents/Unreal Projects/MIP_Laval/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
