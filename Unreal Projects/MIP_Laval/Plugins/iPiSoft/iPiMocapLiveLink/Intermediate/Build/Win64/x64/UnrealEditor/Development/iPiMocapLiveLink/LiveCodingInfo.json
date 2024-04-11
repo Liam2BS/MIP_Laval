@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.iPiMocapLiveLink.cpp.obj": [
+			"iPiMocapLiveLink.init.gen.cpp.obj",
+			"iPiMocapLiveLinkSourceFactory.gen.cpp.obj",
+			"iPiMocapLiveLink.cpp.obj",
+			"iPiMocapLiveLinkSource.cpp.obj",
+			"iPiMocapLiveLinkSourceEditor.cpp.obj",
+			"iPiMocapLiveLinkSourceFactory.cpp.obj"
+		]
+	}
+}

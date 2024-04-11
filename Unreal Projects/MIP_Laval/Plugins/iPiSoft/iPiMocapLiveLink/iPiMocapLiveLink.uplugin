@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "iPi Mocap Live Link",
+	"Description": "LiveLink Source for receiving animation data from iPi Mocap Studio",
+	"Category": "Animation",
+	"CreatedBy": "iPiSoft LLC",
+	"CreatedByURL": "http://www.ipisoft.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "iPiMocapLiveLink",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
