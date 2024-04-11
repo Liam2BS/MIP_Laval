@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/NS_FishGMTestTarget.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Liam/Material/NS_Test_FX_lookup.uasset",
 				"C:/Users/rosar/Documents/GitHub/MIP_Laval/Unreal Projects/MIP_Laval/Content/Liam/NewMap.umap",
 				"C:/Users/rosar/Documents/GitHub/MIP_Laval/Unreal Projects/MIP_Laval/Content/Liam/Material/M_Shader.uasset",
 				"C:/Users/rosar/Documents/GitHub/MIP_Laval/Unreal Projects/MIP_Laval/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
