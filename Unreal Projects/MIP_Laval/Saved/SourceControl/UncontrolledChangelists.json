@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/NS_FishGMTestTarget.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Test_Map_Fish.umap",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Liam/Material/NS_Test_FX_lookup.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/M_RedFish.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/NS_FishGM2.uasset",
+				"D:/MIP_Laval/Unreal Projects/MIP_Laval/Content/Monica/Fish/NS_FishLookUp.uasset",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT2D.uasset",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT2D.uasset",
